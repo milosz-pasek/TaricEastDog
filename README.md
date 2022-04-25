@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milosz
-- 🌱 I’m currently learning JavaScript, React and Redux.
+- 🌱 I’m currently learning Algorithms and Data Structures.
 - 📫 mpasekprivate@gmail.com
 
 <!---
