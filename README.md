@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milosz
-- 🌱 I’m currently learning Algorithms and Data Structures.
+- 🌱 I’m currently learning Express.js
 - 📫 mpasekprivate@gmail.com
 
 <!---
