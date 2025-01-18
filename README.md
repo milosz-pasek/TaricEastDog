@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Milosz
-- 🌱 I’m currently learning Express.js
-- 📫 mpasekprivate@gmail.com
 
 <!---
 milosz-pasek/milosz-pasek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
